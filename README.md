@@ -2,12 +2,10 @@
 
 AI 모델 개발부터 서비스 적용까지 경험하며 **설계 의도와 기술 선택 이유를 설명할 수 있는 AI 개발자**를 목표로 준비하고 있습니다.
 
-<br>
 
 ### 🎯 Goal
 - AI 모델을 **실제 서비스에 적용할 수 있는 개발자**
 - 단순 구현이 아닌 **설계 의도와 선택 근거를 설명할 수 있는 엔지니어**
-
 <br>
 
 ### 🛠️ Tech Stack
@@ -39,3 +37,7 @@ AI 모델 개발부터 서비스 적용까지 경험하며 **설계 의도와 �
 <br>
 
 📌 *프로젝트 경험과 학습 내용을 지속적으로 업데이트하고 있습니다.*
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0mmmy&layout=compact)
