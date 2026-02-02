@@ -26,10 +26,6 @@ AI 모델 개발부터 서비스 적용까지 경험하며 **설계 의도와 �
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-#### 🔹 Backend / Database
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 #### 🔹 Infra / Collaboration
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -37,7 +33,3 @@ AI 모델 개발부터 서비스 적용까지 경험하며 **설계 의도와 �
 <br>
 
 📌 *프로젝트 경험과 학습 내용을 지속적으로 업데이트하고 있습니다.*
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0mmmy&layout=compact)
